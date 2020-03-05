@@ -1,0 +1,2591 @@
+[
+  {
+    "ip": "::1",
+    "code": "nis",
+    "action_type": "create citizen",
+    "duration": 15351,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "ssoID": "1568343322",
+      "publickey": "0405d915a9b0384de2423ba1083e0f9f676e53575893ff1b8a0f548dbbab20757ca66a749bd1bc46802a28c51905a2a75a450b699a90a0a22439450460d60eb2cf",
+      "userid": "5d7b0a698afa333ce4d66c0e"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nimc",
+    "action_type": "retrieve citizen",
+    "duration": 78,
+    "status": "success",
+    "message": "Record match",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7b0a698afa333ce4d66c0e",
+      "publickey": "0405d915a9b0384de2423ba1083e0f9f676e53575893ff1b8a0f548dbbab20757ca66a749bd1bc46802a28c51905a2a75a450b699a90a0a22439450460d60eb2cf",
+      "ssoID": "1568343322"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nimc",
+    "action_type": "modify citizen",
+    "duration": 5933,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7b0a698afa333ce4d66c0e",
+      "publickey": "0405d915a9b0384de2423ba1083e0f9f676e53575893ff1b8a0f548dbbab20757ca66a749bd1bc46802a28c51905a2a75a450b699a90a0a22439450460d60eb2cf",
+      "ssoID": "1568343322"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "cbn",
+    "action_type": "retrieve citizen",
+    "duration": 41,
+    "status": "success",
+    "message": "Record match",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7b0a698afa333ce4d66c0e",
+      "publickey": "0405d915a9b0384de2423ba1083e0f9f676e53575893ff1b8a0f548dbbab20757ca66a749bd1bc46802a28c51905a2a75a450b699a90a0a22439450460d60eb2cf",
+      "ssoID": "1568343322"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "cbn",
+    "action_type": "modify citizen",
+    "duration": 11504,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7b0a698afa333ce4d66c0e",
+      "publickey": "0405d915a9b0384de2423ba1083e0f9f676e53575893ff1b8a0f548dbbab20757ca66a749bd1bc46802a28c51905a2a75a450b699a90a0a22439450460d60eb2cf",
+      "ssoID": "1568343322"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "frsc",
+    "action_type": "retrieve citizen",
+    "duration": 31,
+    "status": "success",
+    "message": "Record match",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7b0a698afa333ce4d66c0e",
+      "publickey": "0405d915a9b0384de2423ba1083e0f9f676e53575893ff1b8a0f548dbbab20757ca66a749bd1bc46802a28c51905a2a75a450b699a90a0a22439450460d60eb2cf",
+      "ssoID": "1568343322"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "frsc",
+    "action_type": "retrieve citizen",
+    "duration": 29,
+    "status": "success",
+    "message": "Record match",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7b0a698afa333ce4d66c0e",
+      "publickey": "0405d915a9b0384de2423ba1083e0f9f676e53575893ff1b8a0f548dbbab20757ca66a749bd1bc46802a28c51905a2a75a450b699a90a0a22439450460d60eb2cf",
+      "ssoID": "1568343322"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "frsc",
+    "action_type": "modify citizen",
+    "duration": 1040,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7b0a698afa333ce4d66c0e",
+      "publickey": "0405d915a9b0384de2423ba1083e0f9f676e53575893ff1b8a0f548dbbab20757ca66a749bd1bc46802a28c51905a2a75a450b699a90a0a22439450460d60eb2cf",
+      "ssoID": "1568343322"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "frsc",
+    "action_type": "create citizen",
+    "duration": 3873,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "ssoID": "1568354049",
+      "publickey": "0464e4c648aa0a6f39cb7383a33afc1e33d4bdd307191f5a5bb0d701c2b12ba25fe6895950b438adc78e81c84c1077bb9db8ef2be354a0dfa141c5c9478c1ec9c1",
+      "userid": "5d7b2f858afa333ce4d66c3b"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "frsc",
+    "action_type": "retrieve citizen",
+    "duration": 18,
+    "status": "success",
+    "message": "Record match",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7b2f858afa333ce4d66c3b",
+      "publickey": "0464e4c648aa0a6f39cb7383a33afc1e33d4bdd307191f5a5bb0d701c2b12ba25fe6895950b438adc78e81c84c1077bb9db8ef2be354a0dfa141c5c9478c1ec9c1",
+      "ssoID": "1568354049"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "cbn",
+    "action_type": "retrieve citizen",
+    "duration": 10,
+    "status": "success",
+    "message": "Record match",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7b2f858afa333ce4d66c3b",
+      "publickey": "0464e4c648aa0a6f39cb7383a33afc1e33d4bdd307191f5a5bb0d701c2b12ba25fe6895950b438adc78e81c84c1077bb9db8ef2be354a0dfa141c5c9478c1ec9c1",
+      "ssoID": "1568354049"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "cbn",
+    "action_type": "modify citizen",
+    "duration": 3395,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7b2f858afa333ce4d66c3b",
+      "publickey": "0464e4c648aa0a6f39cb7383a33afc1e33d4bdd307191f5a5bb0d701c2b12ba25fe6895950b438adc78e81c84c1077bb9db8ef2be354a0dfa141c5c9478c1ec9c1",
+      "ssoID": "1568354049"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "cbn",
+    "action_type": "create citizen",
+    "duration": 1679,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "ssoID": "1568354418",
+      "publickey": "0419f4a0b7b3519e9590d7ba7fa3a93e6bb24291a51fa8829b2a13144bc7fd13d9e5d9ce0a48e74894e922271710af2a58e54dd1ad4f147ca89b3159cc8393c5dd",
+      "userid": "5d7b31108afa333ce4d66c52"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "cbn",
+    "action_type": "retrieve citizen",
+    "duration": 15,
+    "status": "success",
+    "message": "Record match",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7b31108afa333ce4d66c52",
+      "publickey": "0419f4a0b7b3519e9590d7ba7fa3a93e6bb24291a51fa8829b2a13144bc7fd13d9e5d9ce0a48e74894e922271710af2a58e54dd1ad4f147ca89b3159cc8393c5dd",
+      "ssoID": "1568354418"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nimc",
+    "action_type": "retrieve citizen",
+    "duration": 8,
+    "status": "success",
+    "message": "Record match",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7b31108afa333ce4d66c52",
+      "publickey": "0419f4a0b7b3519e9590d7ba7fa3a93e6bb24291a51fa8829b2a13144bc7fd13d9e5d9ce0a48e74894e922271710af2a58e54dd1ad4f147ca89b3159cc8393c5dd",
+      "ssoID": "1568354418"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nimc",
+    "action_type": "modify citizen",
+    "duration": 908,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7b31108afa333ce4d66c52",
+      "publickey": "0419f4a0b7b3519e9590d7ba7fa3a93e6bb24291a51fa8829b2a13144bc7fd13d9e5d9ce0a48e74894e922271710af2a58e54dd1ad4f147ca89b3159cc8393c5dd",
+      "ssoID": "1568354418"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nimc",
+    "action_type": "create citizen",
+    "duration": 1807,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "ssoID": "1568354776",
+      "publickey": "04032f35de2bab45705e60cd5273bb43da76001104c553b76ab20da47bc202940f341fc16f7e6c53820a49994c31d44bbcce5b1b5fa284176d1670f5e292182b4c",
+      "userid": "5d7b32408afa333ce4d66c69"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nimc",
+    "action_type": "create citizen",
+    "duration": 2158,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "ssoID": "1568354910",
+      "publickey": "04d307e3424e1f239aafd688ebb9939f4f93ce559c64aad2c39b2c35b90ff7afa9fe56152459ff75314b588444d19b1cd94d32470c9aa36bde15036e47f78402d6",
+      "userid": "5d7b32d08afa333ce4d66c75"
+    }
+  },
+  {
+    "ip": "::ffff:127.0.0.1",
+    "code": "nimc",
+    "action_type": "login",
+    "duration": 2,
+    "status": "success",
+    "message": "login successfully",
+    "browser": "Other",
+    "os": "Other",
+    "action_data": {
+      "id": 1566372467084,
+      "privatekey": "ab2f7e4cc6dd1bf8f30607b438a8a2e435f9c093372d25b28cf17c3153b64ece",
+      "publickey": "049cc22cb857d06740c877b3826b3a53c79b1f4401bd80a5ddbe49c3365bd6f690e104691a9ad3d07a25e07155ccc0c9561d1552ab76e07d4de7954a15d94e2be1",
+      "name": "Ahmed Olanrewaju",
+      "phone": "1234567890",
+      "email": "olanrewaju.ahmed@nimc.com",
+      "role": "admin"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nimc",
+    "action_type": "retrieve citizen",
+    "duration": 39,
+    "status": "success",
+    "message": "Provided ID do not match any record",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": null
+  },
+  {
+    "ip": "::1",
+    "code": "nimc",
+    "action_type": "create citizen",
+    "duration": 5420,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "ssoID": "1568355048",
+      "publickey": "04899d4daf3c26963911181091205c6185fd62eacf50d84a27015210b65e0cf10468e5fc9e78a6c97db568ef3335747f470fb6ac5426e1cdcc2e018fa3e6ada9a0",
+      "userid": "5d7b35aea208ac1dd80407ee"
+    }
+  },
+  {
+    "ip": "::ffff:127.0.0.1",
+    "code": "nis",
+    "action_type": "login",
+    "duration": 1,
+    "status": "success",
+    "message": "login successfully",
+    "browser": "Other",
+    "os": "Other",
+    "action_data": {
+      "id": 1566372467084,
+      "privatekey": "ab2f7e4cc6dd1bf8f30607b438a8a2e435f9c093372d25b28cf17c3153b64ece",
+      "publickey": "049cc22cb857d06740c877b3826b3a53c79b1f4401bd80a5ddbe49c3365bd6f690e104691a9ad3d07a25e07155ccc0c9561d1552ab76e07d4de7954a15d94e2be1",
+      "name": "Lanre Omobukola",
+      "phone": "1234567890",
+      "email": "olanrewaju@nis.com",
+      "role": "admin"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nis",
+    "action_type": "retrieve citizen",
+    "duration": 28,
+    "status": "success",
+    "message": "Record match",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7b35aea208ac1dd80407ee",
+      "publickey": "04899d4daf3c26963911181091205c6185fd62eacf50d84a27015210b65e0cf10468e5fc9e78a6c97db568ef3335747f470fb6ac5426e1cdcc2e018fa3e6ada9a0",
+      "ssoID": "1568355048"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nis",
+    "action_type": "modify citizen",
+    "duration": 2895,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7b35aea208ac1dd80407ee",
+      "publickey": "04899d4daf3c26963911181091205c6185fd62eacf50d84a27015210b65e0cf10468e5fc9e78a6c97db568ef3335747f470fb6ac5426e1cdcc2e018fa3e6ada9a0",
+      "ssoID": "1568355048"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nis",
+    "action_type": "retrieve citizen",
+    "duration": 14,
+    "status": "success",
+    "message": "Record match",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7b32d08afa333ce4d66c75",
+      "publickey": "04d307e3424e1f239aafd688ebb9939f4f93ce559c64aad2c39b2c35b90ff7afa9fe56152459ff75314b588444d19b1cd94d32470c9aa36bde15036e47f78402d6",
+      "ssoID": "1568354910"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nis",
+    "action_type": "modify citizen",
+    "duration": 4836,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7b32d08afa333ce4d66c75",
+      "publickey": "04d307e3424e1f239aafd688ebb9939f4f93ce559c64aad2c39b2c35b90ff7afa9fe56152459ff75314b588444d19b1cd94d32470c9aa36bde15036e47f78402d6",
+      "ssoID": "1568354910"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nis",
+    "action_type": "retrieve citizen",
+    "duration": 12,
+    "status": "success",
+    "message": "Record match",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7b32408afa333ce4d66c69",
+      "publickey": "04032f35de2bab45705e60cd5273bb43da76001104c553b76ab20da47bc202940f341fc16f7e6c53820a49994c31d44bbcce5b1b5fa284176d1670f5e292182b4c",
+      "ssoID": "1568354776"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nis",
+    "action_type": "modify citizen",
+    "duration": 2308,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7b32408afa333ce4d66c69",
+      "publickey": "04032f35de2bab45705e60cd5273bb43da76001104c553b76ab20da47bc202940f341fc16f7e6c53820a49994c31d44bbcce5b1b5fa284176d1670f5e292182b4c",
+      "ssoID": "1568354776"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nis",
+    "action_type": "retrieve citizen",
+    "duration": 4,
+    "status": "success",
+    "message": "Provided ID do not match any record",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": null
+  },
+  {
+    "ip": "::1",
+    "code": "nis",
+    "action_type": "create citizen",
+    "duration": 342,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "ssoID": "1568356096",
+      "publickey": "041bd50718174d1324ac2b2b08f4147744b9f241ef9de3b35133541e492ce3725fcc13553a8bf5dbda9876fd5d8ba22a00d4e3c9c2f4fc2883adf081b4089a4ab7",
+      "userid": "5d7b3775a208ac1dd804081b"
+    }
+  },
+  {
+    "ip": "::ffff:127.0.0.1",
+    "code": "frsc",
+    "action_type": "login",
+    "duration": 1,
+    "status": "success",
+    "message": "login successfully",
+    "browser": "Other",
+    "os": "Other",
+    "action_data": {
+      "id": 1566372467084,
+      "privatekey": "ab2f7e4cc6dd1bf8f30607b438a8a2e435f9c093372d25b28cf17c3153b64ece",
+      "publickey": "049cc22cb857d06740c877b3826b3a53c79b1f4401bd80a5ddbe49c3365bd6f690e104691a9ad3d07a25e07155ccc0c9561d1552ab76e07d4de7954a15d94e2be1",
+      "name": "Sulayman Musa",
+      "phone": "1234567890",
+      "email": "sulayman.admin@frsc.com",
+      "role": "admin"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "frsc",
+    "action_type": "retrieve citizen",
+    "duration": 27,
+    "status": "success",
+    "message": "Record match",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7b0a698afa333ce4d66c0e",
+      "publickey": "0405d915a9b0384de2423ba1083e0f9f676e53575893ff1b8a0f548dbbab20757ca66a749bd1bc46802a28c51905a2a75a450b699a90a0a22439450460d60eb2cf",
+      "ssoID": "1568343322"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "frsc",
+    "action_type": "retrieve citizen",
+    "duration": 15,
+    "status": "success",
+    "message": "Record match",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7b2f858afa333ce4d66c3b",
+      "publickey": "0464e4c648aa0a6f39cb7383a33afc1e33d4bdd307191f5a5bb0d701c2b12ba25fe6895950b438adc78e81c84c1077bb9db8ef2be354a0dfa141c5c9478c1ec9c1",
+      "ssoID": "1568354049"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "frsc",
+    "action_type": "retrieve citizen",
+    "duration": 18,
+    "status": "success",
+    "message": "Record match",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7b31108afa333ce4d66c52",
+      "publickey": "0419f4a0b7b3519e9590d7ba7fa3a93e6bb24291a51fa8829b2a13144bc7fd13d9e5d9ce0a48e74894e922271710af2a58e54dd1ad4f147ca89b3159cc8393c5dd",
+      "ssoID": "1568354418"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "frsc",
+    "action_type": "modify citizen",
+    "duration": 1464,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7b31108afa333ce4d66c52",
+      "publickey": "0419f4a0b7b3519e9590d7ba7fa3a93e6bb24291a51fa8829b2a13144bc7fd13d9e5d9ce0a48e74894e922271710af2a58e54dd1ad4f147ca89b3159cc8393c5dd",
+      "ssoID": "1568354418"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "frsc",
+    "action_type": "retrieve citizen",
+    "duration": 21,
+    "status": "success",
+    "message": "Record match",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7b32408afa333ce4d66c69",
+      "publickey": "04032f35de2bab45705e60cd5273bb43da76001104c553b76ab20da47bc202940f341fc16f7e6c53820a49994c31d44bbcce5b1b5fa284176d1670f5e292182b4c",
+      "ssoID": "1568354776"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "frsc",
+    "action_type": "modify citizen",
+    "duration": 2473,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7b32408afa333ce4d66c69",
+      "publickey": "04032f35de2bab45705e60cd5273bb43da76001104c553b76ab20da47bc202940f341fc16f7e6c53820a49994c31d44bbcce5b1b5fa284176d1670f5e292182b4c",
+      "ssoID": "1568354776"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "frsc",
+    "action_type": "retrieve citizen",
+    "duration": 20,
+    "status": "success",
+    "message": "Record match",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7b32d08afa333ce4d66c75",
+      "publickey": "04d307e3424e1f239aafd688ebb9939f4f93ce559c64aad2c39b2c35b90ff7afa9fe56152459ff75314b588444d19b1cd94d32470c9aa36bde15036e47f78402d6",
+      "ssoID": "1568354910"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "frsc",
+    "action_type": "modify citizen",
+    "duration": 2861,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7b32d08afa333ce4d66c75",
+      "publickey": "04d307e3424e1f239aafd688ebb9939f4f93ce559c64aad2c39b2c35b90ff7afa9fe56152459ff75314b588444d19b1cd94d32470c9aa36bde15036e47f78402d6",
+      "ssoID": "1568354910"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "frsc",
+    "action_type": "retrieve citizen",
+    "duration": 18,
+    "status": "success",
+    "message": "Record match",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7b35aea208ac1dd80407ee",
+      "publickey": "04899d4daf3c26963911181091205c6185fd62eacf50d84a27015210b65e0cf10468e5fc9e78a6c97db568ef3335747f470fb6ac5426e1cdcc2e018fa3e6ada9a0",
+      "ssoID": "1568355048"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "frsc",
+    "action_type": "modify citizen",
+    "duration": 1410,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7b35aea208ac1dd80407ee",
+      "publickey": "04899d4daf3c26963911181091205c6185fd62eacf50d84a27015210b65e0cf10468e5fc9e78a6c97db568ef3335747f470fb6ac5426e1cdcc2e018fa3e6ada9a0",
+      "ssoID": "1568355048"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "frsc",
+    "action_type": "retrieve citizen",
+    "duration": 23,
+    "status": "success",
+    "message": "Record match",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7b3775a208ac1dd804081b",
+      "publickey": "041bd50718174d1324ac2b2b08f4147744b9f241ef9de3b35133541e492ce3725fcc13553a8bf5dbda9876fd5d8ba22a00d4e3c9c2f4fc2883adf081b4089a4ab7",
+      "ssoID": "1568356096"
+    }
+  },
+  {
+    "ip": "::ffff:127.0.0.1",
+    "code": "cbn",
+    "action_type": "login",
+    "duration": 0,
+    "status": "success",
+    "message": "login successfully",
+    "browser": "Other",
+    "os": "Other",
+    "action_data": {
+      "id": 1566372467084,
+      "privatekey": "ab2f7e4cc6dd1bf8f30607b438a8a2e435f9c093372d25b28cf17c3153b64ece",
+      "publickey": "049cc22cb857d06740c877b3826b3a53c79b1f4401bd80a5ddbe49c3365bd6f690e104691a9ad3d07a25e07155ccc0c9561d1552ab76e07d4de7954a15d94e2be1",
+      "name": "Dele Giwa",
+      "phone": "1234567890",
+      "email": "dele.giwa@cbn.com",
+      "role": "admin"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "cbn",
+    "action_type": "create citizen",
+    "duration": 280,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "ssoID": "1568356775",
+      "publickey": "0488228ba3e52d536a03ea4bda1c3ee0c125f1c301b040633b988430c43ba7ece1721901697cce1fb8b155a1d91b487332f73cd599dd9aac0f10163dc13f4197fb",
+      "userid": "5d7b3a00a208ac1dd8040853"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "cbn",
+    "action_type": "retrieve citizen",
+    "duration": 12,
+    "status": "success",
+    "message": "Record match",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7b3775a208ac1dd804081b",
+      "publickey": "041bd50718174d1324ac2b2b08f4147744b9f241ef9de3b35133541e492ce3725fcc13553a8bf5dbda9876fd5d8ba22a00d4e3c9c2f4fc2883adf081b4089a4ab7",
+      "ssoID": "1568356096"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "cbn",
+    "action_type": "modify citizen",
+    "duration": 4790,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7b3775a208ac1dd804081b",
+      "publickey": "041bd50718174d1324ac2b2b08f4147744b9f241ef9de3b35133541e492ce3725fcc13553a8bf5dbda9876fd5d8ba22a00d4e3c9c2f4fc2883adf081b4089a4ab7",
+      "ssoID": "1568356096"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "cbn",
+    "action_type": "retrieve citizen",
+    "duration": 50,
+    "status": "success",
+    "message": "Record match",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7b35aea208ac1dd80407ee",
+      "publickey": "04899d4daf3c26963911181091205c6185fd62eacf50d84a27015210b65e0cf10468e5fc9e78a6c97db568ef3335747f470fb6ac5426e1cdcc2e018fa3e6ada9a0",
+      "ssoID": "1568355048"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "cbn",
+    "action_type": "modify citizen",
+    "duration": 1159,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7b35aea208ac1dd80407ee",
+      "publickey": "04899d4daf3c26963911181091205c6185fd62eacf50d84a27015210b65e0cf10468e5fc9e78a6c97db568ef3335747f470fb6ac5426e1cdcc2e018fa3e6ada9a0",
+      "ssoID": "1568355048"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "cbn",
+    "action_type": "retrieve citizen",
+    "duration": 14,
+    "status": "success",
+    "message": "Record match",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7b32d08afa333ce4d66c75",
+      "publickey": "04d307e3424e1f239aafd688ebb9939f4f93ce559c64aad2c39b2c35b90ff7afa9fe56152459ff75314b588444d19b1cd94d32470c9aa36bde15036e47f78402d6",
+      "ssoID": "1568354910"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "cbn",
+    "action_type": "modify citizen",
+    "duration": 2142,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7b32d08afa333ce4d66c75",
+      "publickey": "04d307e3424e1f239aafd688ebb9939f4f93ce559c64aad2c39b2c35b90ff7afa9fe56152459ff75314b588444d19b1cd94d32470c9aa36bde15036e47f78402d6",
+      "ssoID": "1568354910"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "cbn",
+    "action_type": "create citizen",
+    "duration": 1494,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "ssoID": "1568357075",
+      "publickey": "0459aa22e44ccf6651fbbcad1fa7ca98a3553034b7e8bd59516c37f5a381d93cff0d78b1ad134be9f106e5de0515dc2e7802728ee3d12345753618b247a994353a",
+      "userid": "5d7b3b71a208ac1dd8040880"
+    }
+  },
+  {
+    "ip": "::ffff:127.0.0.1",
+    "code": "nis",
+    "action_type": "login",
+    "duration": 1,
+    "status": "error",
+    "message": "Incorrect credentials",
+    "browser": "Other",
+    "os": "Other",
+    "action_data": null
+  },
+  {
+    "ip": "::ffff:127.0.0.1",
+    "code": "nis",
+    "action_type": "login",
+    "duration": 0,
+    "status": "error",
+    "message": "Incorrect credentials",
+    "browser": "Other",
+    "os": "Other",
+    "action_data": null
+  },
+  {
+    "ip": "::ffff:127.0.0.1",
+    "code": "nis",
+    "action_type": "login",
+    "duration": 0,
+    "status": "success",
+    "message": "login successfully",
+    "browser": "Other",
+    "os": "Other",
+    "action_data": {
+      "id": 1566372467084,
+      "privatekey": "ab2f7e4cc6dd1bf8f30607b438a8a2e435f9c093372d25b28cf17c3153b64ece",
+      "publickey": "049cc22cb857d06740c877b3826b3a53c79b1f4401bd80a5ddbe49c3365bd6f690e104691a9ad3d07a25e07155ccc0c9561d1552ab76e07d4de7954a15d94e2be1",
+      "name": "Lanre Omobukola",
+      "phone": "1234567890",
+      "email": "olanrewaju@nis.com",
+      "role": "admin"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nis",
+    "action_type": "retrieve citizen",
+    "duration": 12,
+    "status": "success",
+    "message": "Record match",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7b3b71a208ac1dd8040880",
+      "publickey": "0459aa22e44ccf6651fbbcad1fa7ca98a3553034b7e8bd59516c37f5a381d93cff0d78b1ad134be9f106e5de0515dc2e7802728ee3d12345753618b247a994353a",
+      "ssoID": "1568357075"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nis",
+    "action_type": "modify citizen",
+    "duration": 655,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7b3b71a208ac1dd8040880",
+      "publickey": "0459aa22e44ccf6651fbbcad1fa7ca98a3553034b7e8bd59516c37f5a381d93cff0d78b1ad134be9f106e5de0515dc2e7802728ee3d12345753618b247a994353a",
+      "ssoID": "1568357075"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nis",
+    "action_type": "retrieve citizen",
+    "duration": 18,
+    "status": "success",
+    "message": "Record match",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7b31108afa333ce4d66c52",
+      "publickey": "0419f4a0b7b3519e9590d7ba7fa3a93e6bb24291a51fa8829b2a13144bc7fd13d9e5d9ce0a48e74894e922271710af2a58e54dd1ad4f147ca89b3159cc8393c5dd",
+      "ssoID": "1568354418"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nis",
+    "action_type": "modify citizen",
+    "duration": 1250,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7b31108afa333ce4d66c52",
+      "publickey": "0419f4a0b7b3519e9590d7ba7fa3a93e6bb24291a51fa8829b2a13144bc7fd13d9e5d9ce0a48e74894e922271710af2a58e54dd1ad4f147ca89b3159cc8393c5dd",
+      "ssoID": "1568354418"
+    }
+  },
+  {
+    "ip": "::ffff:127.0.0.1",
+    "code": "nimc",
+    "action_type": "login",
+    "duration": 2,
+    "status": "success",
+    "message": "login successfully",
+    "browser": "Other",
+    "os": "Other",
+    "action_data": {
+      "id": 1566372467084,
+      "privatekey": "ab2f7e4cc6dd1bf8f30607b438a8a2e435f9c093372d25b28cf17c3153b64ece",
+      "publickey": "049cc22cb857d06740c877b3826b3a53c79b1f4401bd80a5ddbe49c3365bd6f690e104691a9ad3d07a25e07155ccc0c9561d1552ab76e07d4de7954a15d94e2be1",
+      "name": "Ahmed Olanrewaju",
+      "phone": "1234567890",
+      "email": "olanrewaju.ahmed@nimc.com",
+      "role": "admin"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nimc",
+    "action_type": "retrieve citizen",
+    "duration": 3,
+    "status": "success",
+    "message": "Provided ID do not match any record",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": null
+  },
+  {
+    "ip": "::1",
+    "code": "nimc",
+    "action_type": "create citizen",
+    "duration": 2618,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "ssoID": "1568357606",
+      "publickey": "04d380a42f8f682de6866c67417637aad0bc27e26695ab86c15b6872fd31e236651789b0834b74430ccf5eb8ea0d423c87b8689dfbb840c00830e8d906a67dc76e",
+      "userid": "5d7b3d5fa208ac1dd80408a2"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nimc",
+    "action_type": "retrieve citizen",
+    "duration": 19,
+    "status": "success",
+    "message": "Record match",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7b2f858afa333ce4d66c3b",
+      "publickey": "0464e4c648aa0a6f39cb7383a33afc1e33d4bdd307191f5a5bb0d701c2b12ba25fe6895950b438adc78e81c84c1077bb9db8ef2be354a0dfa141c5c9478c1ec9c1",
+      "ssoID": "1568354049"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nimc",
+    "action_type": "modify citizen",
+    "duration": 1207,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7b2f858afa333ce4d66c3b",
+      "publickey": "0464e4c648aa0a6f39cb7383a33afc1e33d4bdd307191f5a5bb0d701c2b12ba25fe6895950b438adc78e81c84c1077bb9db8ef2be354a0dfa141c5c9478c1ec9c1",
+      "ssoID": "1568354049"
+    }
+  },
+  {
+    "ip": "::ffff:127.0.0.1",
+    "code": "nimc",
+    "action_type": "login",
+    "duration": 3,
+    "status": "success",
+    "message": "login successfully",
+    "browser": "Other",
+    "os": "Other",
+    "action_data": {
+      "id": 1566372467084,
+      "privatekey": "ab2f7e4cc6dd1bf8f30607b438a8a2e435f9c093372d25b28cf17c3153b64ece",
+      "publickey": "049cc22cb857d06740c877b3826b3a53c79b1f4401bd80a5ddbe49c3365bd6f690e104691a9ad3d07a25e07155ccc0c9561d1552ab76e07d4de7954a15d94e2be1",
+      "name": "Ahmed Olanrewaju",
+      "phone": "1234567890",
+      "email": "olanrewaju.ahmed@nimc.com",
+      "role": "admin"
+    }
+  },
+  {
+    "ip": "::ffff:127.0.0.1",
+    "code": "nis",
+    "action_type": "login",
+    "duration": 2,
+    "status": "success",
+    "message": "login successfully",
+    "browser": "Other",
+    "os": "Other",
+    "action_data": {
+      "id": 1566372467084,
+      "privatekey": "ab2f7e4cc6dd1bf8f30607b438a8a2e435f9c093372d25b28cf17c3153b64ece",
+      "publickey": "049cc22cb857d06740c877b3826b3a53c79b1f4401bd80a5ddbe49c3365bd6f690e104691a9ad3d07a25e07155ccc0c9561d1552ab76e07d4de7954a15d94e2be1",
+      "name": "Lanre Omobukola",
+      "phone": "1234567890",
+      "email": "olanrewaju@nis.com",
+      "role": "admin"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nis",
+    "action_type": "retrieve citizen",
+    "duration": 51,
+    "status": "success",
+    "message": "Provided ID do not match any record",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": null
+  },
+  {
+    "ip": "::ffff:127.0.0.1",
+    "code": "cbn",
+    "action_type": "login",
+    "duration": 1,
+    "status": "success",
+    "message": "login successfully",
+    "browser": "Other",
+    "os": "Other",
+    "action_data": {
+      "id": 1566372467084,
+      "privatekey": "ab2f7e4cc6dd1bf8f30607b438a8a2e435f9c093372d25b28cf17c3153b64ece",
+      "publickey": "049cc22cb857d06740c877b3826b3a53c79b1f4401bd80a5ddbe49c3365bd6f690e104691a9ad3d07a25e07155ccc0c9561d1552ab76e07d4de7954a15d94e2be1",
+      "name": "Dele Giwa",
+      "phone": "1234567890",
+      "email": "dele.giwa@cbn.com",
+      "role": "admin"
+    }
+  },
+  {
+    "ip": "::ffff:127.0.0.1",
+    "code": "frsc",
+    "action_type": "login",
+    "duration": 0,
+    "status": "success",
+    "message": "login successfully",
+    "browser": "Other",
+    "os": "Other",
+    "action_data": {
+      "id": 1566372467084,
+      "privatekey": "ab2f7e4cc6dd1bf8f30607b438a8a2e435f9c093372d25b28cf17c3153b64ece",
+      "publickey": "049cc22cb857d06740c877b3826b3a53c79b1f4401bd80a5ddbe49c3365bd6f690e104691a9ad3d07a25e07155ccc0c9561d1552ab76e07d4de7954a15d94e2be1",
+      "name": "Sulayman Musa",
+      "phone": "1234567890",
+      "email": "sulayman.admin@frsc.com",
+      "role": "admin"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "frsc",
+    "action_type": "create citizen",
+    "duration": 5207,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "ssoID": "1568365695",
+      "publickey": "048cf960b13b6052ce5ce6f9ae200454939aa2a2f17e3ca984dee178583de806e71d9c8279a348bd53b5a975783e67dd627176cd1bfff8bd78edc5d07086d08c84",
+      "userid": "5d7ca979b4ed7c164c5dfa97"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "frsc",
+    "action_type": "create citizen",
+    "duration": 1295,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "ssoID": "1568365756",
+      "publickey": "046f7aed036a84901017639aa84a7f7830642f7cad50a2627b2a5c3d614ab6f6a530780abdd0feffcca50af714986886c8851c6c8eb21f2cabb49a74bf9d967cf9",
+      "userid": "5d7ca985b4ed7c164c5dfaa5"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "frsc",
+    "action_type": "create citizen",
+    "duration": 748,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "ssoID": "1568365790",
+      "publickey": "04e9528c416e9e38e917ba810a336973cd0edcbefc2c7d83abdb478b365270bba8f7a076735bb4f0bc2d708f410a9c03024bb391c2d56d8511f28b8bd368335958",
+      "userid": "5d7ca990b4ed7c164c5dfabb"
+    }
+  },
+  {
+    "ip": "::ffff:127.0.0.1",
+    "code": "nis",
+    "action_type": "login",
+    "duration": 1,
+    "status": "success",
+    "message": "login successfully",
+    "browser": "Other",
+    "os": "Other",
+    "action_data": {
+      "id": 1566372467084,
+      "privatekey": "ab2f7e4cc6dd1bf8f30607b438a8a2e435f9c093372d25b28cf17c3153b64ece",
+      "publickey": "049cc22cb857d06740c877b3826b3a53c79b1f4401bd80a5ddbe49c3365bd6f690e104691a9ad3d07a25e07155ccc0c9561d1552ab76e07d4de7954a15d94e2be1",
+      "name": "Lanre Omobukola",
+      "phone": "1234567890",
+      "email": "olanrewaju@nis.com",
+      "role": "admin"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nis",
+    "action_type": "create citizen",
+    "duration": 1974,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "ssoID": "1568365577",
+      "publickey": "042a5c01154df08e7c81e38d471566f97e96aaac7f96081139a31413a62b4f31cf398d281ef60cf839e4a49d93d3caa393852445ff9221a5f35863ab0bbe22db1c",
+      "userid": "5d7ca9c2b4ed7c164c5dfac7"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nis",
+    "action_type": "create citizen",
+    "duration": 412,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "ssoID": "1568365508",
+      "publickey": "04af84aaff38540b20a6976d969272ed80da54a26f6dac25cc16524e44f59d09a0e23ad124c32a6c8801b64243d2022081b6620c0b7961dec5bfd07cca915fb561",
+      "userid": "5d7ca9ccb4ed7c164c5dfad3"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nis",
+    "action_type": "create citizen",
+    "duration": 893,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "ssoID": "1568365546",
+      "publickey": "043d006371fa1368342ba3a1a955b6a14483a0cccd1faecf0b2445f4d8592047fcd6a015380b191522cda76c77e6edc8548041840187420445e53d434f6c0a3099",
+      "userid": "5d7ca9d7b4ed7c164c5dfadf"
+    }
+  },
+  {
+    "ip": "::ffff:127.0.0.1",
+    "code": "cbn",
+    "action_type": "login",
+    "duration": 0,
+    "status": "success",
+    "message": "login successfully",
+    "browser": "Other",
+    "os": "Other",
+    "action_data": {
+      "id": 1566372467084,
+      "privatekey": "ab2f7e4cc6dd1bf8f30607b438a8a2e435f9c093372d25b28cf17c3153b64ece",
+      "publickey": "049cc22cb857d06740c877b3826b3a53c79b1f4401bd80a5ddbe49c3365bd6f690e104691a9ad3d07a25e07155ccc0c9561d1552ab76e07d4de7954a15d94e2be1",
+      "name": "Dele Giwa",
+      "phone": "1234567890",
+      "email": "dele.giwa@cbn.com",
+      "role": "admin"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "cbn",
+    "action_type": "create citizen",
+    "duration": 1200,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "ssoID": "1568365606",
+      "publickey": "0463fd6e909cd3dbee5fb77f83e20167e13cd5ace2c587bad6d618eefdb8249f0cc324f9c9a056cf74ad3b2d1e5f36b5a6b603040517c231aa6855125886116de6",
+      "userid": "5d7caa34b4ed7c164c5dfaeb"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "cbn",
+    "action_type": "create citizen",
+    "duration": 2226,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "ssoID": "1568365623",
+      "publickey": "04a3d0927556906405ec22934cd815e2ddab093ec62cb26fe554a05a5c65ca14033d68365d697956b217262846a5114fdcb41c91b7c833da79bcfc5136c4b5f227",
+      "userid": "5d7caa3bb4ed7c164c5dfaf7"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "cbn",
+    "action_type": "create citizen",
+    "duration": 364,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "ssoID": "1568365673",
+      "publickey": "0434d10c377e2445d153c8a4d21fbcd52b04119e878879e1f523f09c5e4ab457b9d4d45c3615f41159359c635a70e533de7addfc862e1d6b3ca0113aac7884fb4a",
+      "userid": "5d7caa43b4ed7c164c5dfb03"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "cbn",
+    "action_type": "create citizen",
+    "duration": 645,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "ssoID": "1568365639",
+      "publickey": "04a8cfccadf8006b35fb48a362c79d6cc642a173717f892edd80d46b4d5a930fe6ce6c104fc660ea6421213a16daf45463154d761d2b45ae4c38a9e28839b8e40e",
+      "userid": "5d7caa49b4ed7c164c5dfb0f"
+    }
+  },
+  {
+    "ip": "::ffff:127.0.0.1",
+    "code": "nimc",
+    "action_type": "login",
+    "duration": 1,
+    "status": "success",
+    "message": "login successfully",
+    "browser": "Other",
+    "os": "Other",
+    "action_data": {
+      "id": 1566372467084,
+      "privatekey": "ab2f7e4cc6dd1bf8f30607b438a8a2e435f9c093372d25b28cf17c3153b64ece",
+      "publickey": "049cc22cb857d06740c877b3826b3a53c79b1f4401bd80a5ddbe49c3365bd6f690e104691a9ad3d07a25e07155ccc0c9561d1552ab76e07d4de7954a15d94e2be1",
+      "name": "Ahmed Olanrewaju",
+      "phone": "1234567890",
+      "email": "olanrewaju.ahmed@nimc.com",
+      "role": "admin"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nimc",
+    "action_type": "create citizen",
+    "duration": 3284,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "ssoID": "1568365419",
+      "publickey": "04dfdb1d07c65b095056565d9d08a634ee10f1e194bd8163d89ecc409133cee90d862dac9b55a95198591ab8c3b2a7306276c6064e3f1acd903cf84cbe5efab9e1",
+      "userid": "5d7caa71b4ed7c164c5dfb1b"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nimc",
+    "action_type": "create citizen",
+    "duration": 725,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "ssoID": "1568365013",
+      "publickey": "04628d165ec2b1d41fcc0c06dedaf0b943dcb93127a7e06c962bc3bb004882e2f3bb1962715f6bd15b431145af00cc72e68fe64b94707b79d9b8684815326561f0",
+      "userid": "5d7caa7bb4ed7c164c5dfb27"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nimc",
+    "action_type": "create citizen",
+    "duration": 3101,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "ssoID": "1568365383",
+      "publickey": "041b8f6751bdc714c9ad5981ef4da9d88263cb85ad0a065c4274b3db4c9ef61317fbe0792af2c1211829597da0bc4df562ac01ccf9c0bedf17555c9498d16a22a2",
+      "userid": "5d7caa81b4ed7c164c5dfb33"
+    }
+  },
+  {
+    "ip": "::ffff:127.0.0.1",
+    "code": "nis",
+    "action_type": "login",
+    "duration": 1,
+    "status": "success",
+    "message": "login successfully",
+    "browser": "Other",
+    "os": "Other",
+    "action_data": {
+      "id": 1566372467084,
+      "privatekey": "ab2f7e4cc6dd1bf8f30607b438a8a2e435f9c093372d25b28cf17c3153b64ece",
+      "publickey": "049cc22cb857d06740c877b3826b3a53c79b1f4401bd80a5ddbe49c3365bd6f690e104691a9ad3d07a25e07155ccc0c9561d1552ab76e07d4de7954a15d94e2be1",
+      "name": "Lanre Omobukola",
+      "phone": "1234567890",
+      "email": "olanrewaju@nis.com",
+      "role": "admin"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nis",
+    "action_type": "create citizen",
+    "duration": 776,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "ssoID": "1568365445",
+      "publickey": "04577a7630594d76574d2a398f7d68457ea138bdfe61a2638cd39e96aa4906d7d4fadd15cdc06da83b5b5ebdbbefa0d784c2c13dfbe8f81114ecae12e819b3b6f1",
+      "userid": "5d7caaaab4ed7c164c5dfb3f"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nis",
+    "action_type": "create citizen",
+    "duration": 4396,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "ssoID": "1568365561",
+      "publickey": "04bc5b1f3fd0a0baf223cda98954b7024eed651b9876c884bdc6f1fda7b89b41a8aeb4dff69bb7cfb33482253f795bea37572be39d7ad90fc1d9fc0fb028f30ed6",
+      "userid": "5d7caaafb4ed7c164c5dfb4b"
+    }
+  },
+  {
+    "ip": "::ffff:127.0.0.1",
+    "code": "nimc",
+    "action_type": "login",
+    "duration": 1,
+    "status": "success",
+    "message": "login successfully",
+    "browser": "Other",
+    "os": "Other",
+    "action_data": {
+      "id": 1566372467084,
+      "privatekey": "ab2f7e4cc6dd1bf8f30607b438a8a2e435f9c093372d25b28cf17c3153b64ece",
+      "publickey": "049cc22cb857d06740c877b3826b3a53c79b1f4401bd80a5ddbe49c3365bd6f690e104691a9ad3d07a25e07155ccc0c9561d1552ab76e07d4de7954a15d94e2be1",
+      "name": "Ahmed Olanrewaju",
+      "phone": "1234567890",
+      "email": "olanrewaju.ahmed@nimc.com",
+      "role": "admin"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nimc",
+    "action_type": "create citizen",
+    "duration": 2259,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "ssoID": "1568365322",
+      "publickey": "0472305057ff60e2936d2a9b481d1efc40366ce975d63dbc50733ec5dc50321238ff6233424d32008b3b529fbac7a559e806684148167402a48c81d7939780aa1f",
+      "userid": "5d7caad4b4ed7c164c5dfb57"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nimc",
+    "action_type": "create citizen",
+    "duration": 1860,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "ssoID": "1568365304",
+      "publickey": "04bdb1e91762687b3d83778e39782276d15dc9952ab79cccba427aa85c2685ac2997cea5ba3ccecdaaf40b731e9642d505fb78ad725f78d46678d4ad4af25dd033",
+      "userid": "5d7caadab4ed7c164c5dfb63"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nimc",
+    "action_type": "create citizen",
+    "duration": 1123,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "ssoID": "1568365275",
+      "publickey": "047c09195f1cb434e431b2b96de8072ebde0e09442caa4876e22ec871d3a332494011c6de1de0150c2b246ef498d2c17a793b4896278896e40dd354aacd22fd384",
+      "userid": "5d7caae1b4ed7c164c5dfb6f"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nimc",
+    "action_type": "create citizen",
+    "duration": 4584,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "ssoID": "1568365056",
+      "publickey": "049bcbee55466e1a4d95ab2953c4dad32f36cbd28f32152dcb9b17e11ff3b36baf00f0a79c86c1bf4752b5f3a74e189127448a4fb6b8de1e8b1b14417800d68920",
+      "userid": "5d7caae8b4ed7c164c5dfb7b"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nimc",
+    "action_type": "create citizen",
+    "duration": 2538,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "ssoID": "1568365056",
+      "publickey": "04b2622a6b07af976f3b9825783508dc785715df57f67f41e8fa65e7c35eeab28140f71c413efe0e496604eed4ff0b29ca8c87c185b2ad3cf5516c79024b129a92",
+      "userid": "5d7cab68ba3ad85188a28758"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nimc",
+    "action_type": "create citizen",
+    "duration": 4063,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "ssoID": "1568365245",
+      "publickey": "04a14aee3cd00ab74d12d96338a248744057d8ed3d2187b7dc7fca4090c8e2903ace2c47e101570c925898bafbac632a43a5782ce7b45cfe512b0e12c9c728d5f7",
+      "userid": "5d7cab7bba3ad85188a28764"
+    }
+  },
+  {
+    "ip": "::ffff:127.0.0.1",
+    "code": "nis",
+    "action_type": "login",
+    "duration": 1,
+    "status": "success",
+    "message": "login successfully",
+    "browser": "Other",
+    "os": "Other",
+    "action_data": {
+      "id": 1566372467084,
+      "privatekey": "ab2f7e4cc6dd1bf8f30607b438a8a2e435f9c093372d25b28cf17c3153b64ece",
+      "publickey": "049cc22cb857d06740c877b3826b3a53c79b1f4401bd80a5ddbe49c3365bd6f690e104691a9ad3d07a25e07155ccc0c9561d1552ab76e07d4de7954a15d94e2be1",
+      "name": "Lanre Omobukola",
+      "phone": "1234567890",
+      "email": "olanrewaju@nis.com",
+      "role": "admin"
+    }
+  },
+  {
+    "ip": "::ffff:127.0.0.1",
+    "code": "frsc",
+    "action_type": "login",
+    "duration": 1,
+    "status": "success",
+    "message": "login successfully",
+    "browser": "Other",
+    "os": "Other",
+    "action_data": {
+      "id": 1566372467084,
+      "privatekey": "ab2f7e4cc6dd1bf8f30607b438a8a2e435f9c093372d25b28cf17c3153b64ece",
+      "publickey": "049cc22cb857d06740c877b3826b3a53c79b1f4401bd80a5ddbe49c3365bd6f690e104691a9ad3d07a25e07155ccc0c9561d1552ab76e07d4de7954a15d94e2be1",
+      "name": "Sulayman Musa",
+      "phone": "1234567890",
+      "email": "sulayman.admin@frsc.com",
+      "role": "admin"
+    }
+  },
+  {
+    "ip": "::ffff:127.0.0.1",
+    "code": "cbn",
+    "action_type": "login",
+    "duration": 0,
+    "status": "success",
+    "message": "login successfully",
+    "browser": "Other",
+    "os": "Other",
+    "action_data": {
+      "id": 1566372467084,
+      "privatekey": "ab2f7e4cc6dd1bf8f30607b438a8a2e435f9c093372d25b28cf17c3153b64ece",
+      "publickey": "049cc22cb857d06740c877b3826b3a53c79b1f4401bd80a5ddbe49c3365bd6f690e104691a9ad3d07a25e07155ccc0c9561d1552ab76e07d4de7954a15d94e2be1",
+      "name": "Dele Giwa",
+      "phone": "1234567890",
+      "email": "dele.giwa@cbn.com",
+      "role": "admin"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "cbn",
+    "action_type": "create citizen",
+    "duration": 3845,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "ssoID": "1568365655",
+      "publickey": "049ce254536da217ee901e183720a72e6ca85d406a08831ae46de9c1ff8b90f0f669c783932317b7c6f0eb65c1b90453723809cc47f426491c7d6a194a119b63b6",
+      "userid": "5d7cac06ba3ad85188a28770"
+    }
+  },
+  {
+    "ip": "::ffff:127.0.0.1",
+    "code": "nimc",
+    "action_type": "login",
+    "duration": 6,
+    "status": "success",
+    "message": "login successfully",
+    "browser": "Other",
+    "os": "Other",
+    "action_data": {
+      "id": 1566372467084,
+      "privatekey": "ab2f7e4cc6dd1bf8f30607b438a8a2e435f9c093372d25b28cf17c3153b64ece",
+      "publickey": "049cc22cb857d06740c877b3826b3a53c79b1f4401bd80a5ddbe49c3365bd6f690e104691a9ad3d07a25e07155ccc0c9561d1552ab76e07d4de7954a15d94e2be1",
+      "name": "Ahmed Olanrewaju",
+      "phone": "1234567890",
+      "email": "olanrewaju.ahmed@nimc.com",
+      "role": "admin"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nimc",
+    "action_type": "create citizen",
+    "duration": 998,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "ssoID": "1568365138",
+      "publickey": "044879a3d74e0338c86a9795330c24a8e5850724f01f47be6dbbedd432f8a1fd1ec96107b6656a2aed0b90496b06b60cbfd8b20f72ba0074c420ac8e3dbf90afc6",
+      "userid": "5d7cac4cba3ad85188a2877c"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nimc",
+    "action_type": "create citizen",
+    "duration": 1784,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "ssoID": "1568365168",
+      "publickey": "041cc8be92f41345051a72aff9abe380767282ed73fbdc50e9348434fa225d290531218f1e07dfa1081830f271623413586f5a21479ec71e6fd2b202a288cde698",
+      "userid": "5d7cac54ba3ad85188a28788"
+    }
+  },
+  {
+    "ip": "::ffff:127.0.0.1",
+    "code": "nis",
+    "action_type": "login",
+    "duration": 1,
+    "status": "success",
+    "message": "login successfully",
+    "browser": "Other",
+    "os": "Other",
+    "action_data": {
+      "id": 1566372467084,
+      "privatekey": "ab2f7e4cc6dd1bf8f30607b438a8a2e435f9c093372d25b28cf17c3153b64ece",
+      "publickey": "049cc22cb857d06740c877b3826b3a53c79b1f4401bd80a5ddbe49c3365bd6f690e104691a9ad3d07a25e07155ccc0c9561d1552ab76e07d4de7954a15d94e2be1",
+      "name": "Lanre Omobukola",
+      "phone": "1234567890",
+      "email": "olanrewaju@nis.com",
+      "role": "admin"
+    }
+  },
+  {
+    "ip": "::ffff:127.0.0.1",
+    "code": "cbn",
+    "action_type": "login",
+    "duration": 0,
+    "status": "success",
+    "message": "login successfully",
+    "browser": "Other",
+    "os": "Other",
+    "action_data": {
+      "id": 1566372467084,
+      "privatekey": "ab2f7e4cc6dd1bf8f30607b438a8a2e435f9c093372d25b28cf17c3153b64ece",
+      "publickey": "049cc22cb857d06740c877b3826b3a53c79b1f4401bd80a5ddbe49c3365bd6f690e104691a9ad3d07a25e07155ccc0c9561d1552ab76e07d4de7954a15d94e2be1",
+      "name": "Dele Giwa",
+      "phone": "1234567890",
+      "email": "dele.giwa@cbn.com",
+      "role": "admin"
+    }
+  },
+  {
+    "ip": "::ffff:127.0.0.1",
+    "code": "frsc",
+    "action_type": "login",
+    "duration": 1,
+    "status": "success",
+    "message": "login successfully",
+    "browser": "Other",
+    "os": "Other",
+    "action_data": {
+      "id": 1566372467084,
+      "privatekey": "ab2f7e4cc6dd1bf8f30607b438a8a2e435f9c093372d25b28cf17c3153b64ece",
+      "publickey": "049cc22cb857d06740c877b3826b3a53c79b1f4401bd80a5ddbe49c3365bd6f690e104691a9ad3d07a25e07155ccc0c9561d1552ab76e07d4de7954a15d94e2be1",
+      "name": "Sulayman Musa",
+      "phone": "1234567890",
+      "email": "sulayman.admin@frsc.com",
+      "role": "admin"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "frsc",
+    "action_type": "retrieve citizen",
+    "duration": 35,
+    "status": "success",
+    "message": "Record match",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7caa7bb4ed7c164c5dfb27",
+      "publickey": "04628d165ec2b1d41fcc0c06dedaf0b943dcb93127a7e06c962bc3bb004882e2f3bb1962715f6bd15b431145af00cc72e68fe64b94707b79d9b8684815326561f0",
+      "ssoID": "1568365013"
+    }
+  },
+  {
+    "ip": "::ffff:127.0.0.1",
+    "code": "nimc",
+    "action_type": "login",
+    "duration": 0,
+    "status": "success",
+    "message": "login successfully",
+    "browser": "Other",
+    "os": "Other",
+    "action_data": {
+      "id": 1566372467084,
+      "privatekey": "ab2f7e4cc6dd1bf8f30607b438a8a2e435f9c093372d25b28cf17c3153b64ece",
+      "publickey": "049cc22cb857d06740c877b3826b3a53c79b1f4401bd80a5ddbe49c3365bd6f690e104691a9ad3d07a25e07155ccc0c9561d1552ab76e07d4de7954a15d94e2be1",
+      "name": "Ahmed Olanrewaju",
+      "phone": "1234567890",
+      "email": "olanrewaju.ahmed@nimc.com",
+      "role": "admin"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nimc",
+    "action_type": "retrieve citizen",
+    "duration": 9,
+    "status": "success",
+    "message": "Record match",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7caae8b4ed7c164c5dfb7b",
+      "publickey": "049bcbee55466e1a4d95ab2953c4dad32f36cbd28f32152dcb9b17e11ff3b36baf00f0a79c86c1bf4752b5f3a74e189127448a4fb6b8de1e8b1b14417800d68920",
+      "ssoID": "1568365056"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nimc",
+    "action_type": "retrieve citizen",
+    "duration": 7,
+    "status": "success",
+    "message": "Record match",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7caaaab4ed7c164c5dfb3f",
+      "publickey": "04577a7630594d76574d2a398f7d68457ea138bdfe61a2638cd39e96aa4906d7d4fadd15cdc06da83b5b5ebdbbefa0d784c2c13dfbe8f81114ecae12e819b3b6f1",
+      "ssoID": "1568365445"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nimc",
+    "action_type": "retrieve citizen",
+    "duration": 11,
+    "status": "success",
+    "message": "Record match",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7ca9ccb4ed7c164c5dfad3",
+      "publickey": "04af84aaff38540b20a6976d969272ed80da54a26f6dac25cc16524e44f59d09a0e23ad124c32a6c8801b64243d2022081b6620c0b7961dec5bfd07cca915fb561",
+      "ssoID": "1568365508"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nimc",
+    "action_type": "retrieve citizen",
+    "duration": 8,
+    "status": "success",
+    "message": "Record match",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7caa43b4ed7c164c5dfb03",
+      "publickey": "0434d10c377e2445d153c8a4d21fbcd52b04119e878879e1f523f09c5e4ab457b9d4d45c3615f41159359c635a70e533de7addfc862e1d6b3ca0113aac7884fb4a",
+      "ssoID": "1568365673"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nimc",
+    "action_type": "retrieve citizen",
+    "duration": 10,
+    "status": "success",
+    "message": "Record match",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7cac06ba3ad85188a28770",
+      "publickey": "049ce254536da217ee901e183720a72e6ca85d406a08831ae46de9c1ff8b90f0f669c783932317b7c6f0eb65c1b90453723809cc47f426491c7d6a194a119b63b6",
+      "ssoID": "1568365655"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nimc",
+    "action_type": "retrieve citizen",
+    "duration": 8,
+    "status": "success",
+    "message": "Record match",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7ca979b4ed7c164c5dfa97",
+      "publickey": "048cf960b13b6052ce5ce6f9ae200454939aa2a2f17e3ca984dee178583de806e71d9c8279a348bd53b5a975783e67dd627176cd1bfff8bd78edc5d07086d08c84",
+      "ssoID": "1568365695"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nimc",
+    "action_type": "retrieve citizen",
+    "duration": 9,
+    "status": "success",
+    "message": "Record match",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7ca990b4ed7c164c5dfabb",
+      "publickey": "04e9528c416e9e38e917ba810a336973cd0edcbefc2c7d83abdb478b365270bba8f7a076735bb4f0bc2d708f410a9c03024bb391c2d56d8511f28b8bd368335958",
+      "ssoID": "1568365790"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nimc",
+    "action_type": "retrieve citizen",
+    "duration": 8,
+    "status": "success",
+    "message": "Record match",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7ca990b4ed7c164c5dfabb",
+      "publickey": "04e9528c416e9e38e917ba810a336973cd0edcbefc2c7d83abdb478b365270bba8f7a076735bb4f0bc2d708f410a9c03024bb391c2d56d8511f28b8bd368335958",
+      "ssoID": "1568365790"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nimc",
+    "action_type": "modify citizen",
+    "duration": 5366,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7caaaab4ed7c164c5dfb3f",
+      "publickey": "04577a7630594d76574d2a398f7d68457ea138bdfe61a2638cd39e96aa4906d7d4fadd15cdc06da83b5b5ebdbbefa0d784c2c13dfbe8f81114ecae12e819b3b6f1",
+      "ssoID": "1568365445"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nimc",
+    "action_type": "modify citizen",
+    "duration": 1639,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7ca9ccb4ed7c164c5dfad3",
+      "publickey": "04af84aaff38540b20a6976d969272ed80da54a26f6dac25cc16524e44f59d09a0e23ad124c32a6c8801b64243d2022081b6620c0b7961dec5bfd07cca915fb561",
+      "ssoID": "1568365508"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nimc",
+    "action_type": "modify citizen",
+    "duration": 1319,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7caa43b4ed7c164c5dfb03",
+      "publickey": "0434d10c377e2445d153c8a4d21fbcd52b04119e878879e1f523f09c5e4ab457b9d4d45c3615f41159359c635a70e533de7addfc862e1d6b3ca0113aac7884fb4a",
+      "ssoID": "1568365673"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nimc",
+    "action_type": "modify citizen",
+    "duration": 2391,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7cac06ba3ad85188a28770",
+      "publickey": "049ce254536da217ee901e183720a72e6ca85d406a08831ae46de9c1ff8b90f0f669c783932317b7c6f0eb65c1b90453723809cc47f426491c7d6a194a119b63b6",
+      "ssoID": "1568365655"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nimc",
+    "action_type": "modify citizen",
+    "duration": 285,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7ca979b4ed7c164c5dfa97",
+      "publickey": "048cf960b13b6052ce5ce6f9ae200454939aa2a2f17e3ca984dee178583de806e71d9c8279a348bd53b5a975783e67dd627176cd1bfff8bd78edc5d07086d08c84",
+      "ssoID": "1568365695"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nimc",
+    "action_type": "modify citizen",
+    "duration": 422,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7ca990b4ed7c164c5dfabb",
+      "publickey": "04e9528c416e9e38e917ba810a336973cd0edcbefc2c7d83abdb478b365270bba8f7a076735bb4f0bc2d708f410a9c03024bb391c2d56d8511f28b8bd368335958",
+      "ssoID": "1568365790"
+    }
+  },
+  {
+    "ip": "::ffff:127.0.0.1",
+    "code": "nis",
+    "action_type": "login",
+    "duration": 1,
+    "status": "success",
+    "message": "login successfully",
+    "browser": "Other",
+    "os": "Other",
+    "action_data": {
+      "id": 1566372467084,
+      "privatekey": "ab2f7e4cc6dd1bf8f30607b438a8a2e435f9c093372d25b28cf17c3153b64ece",
+      "publickey": "049cc22cb857d06740c877b3826b3a53c79b1f4401bd80a5ddbe49c3365bd6f690e104691a9ad3d07a25e07155ccc0c9561d1552ab76e07d4de7954a15d94e2be1",
+      "name": "Lanre Omobukola",
+      "phone": "1234567890",
+      "email": "olanrewaju@nis.com",
+      "role": "admin"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nis",
+    "action_type": "retrieve citizen",
+    "duration": 10,
+    "status": "success",
+    "message": "Record match",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7caa71b4ed7c164c5dfb1b",
+      "publickey": "04dfdb1d07c65b095056565d9d08a634ee10f1e194bd8163d89ecc409133cee90d862dac9b55a95198591ab8c3b2a7306276c6064e3f1acd903cf84cbe5efab9e1",
+      "ssoID": "1568365419"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nis",
+    "action_type": "retrieve citizen",
+    "duration": 8,
+    "status": "success",
+    "message": "Record match",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7cab7bba3ad85188a28764",
+      "publickey": "04a14aee3cd00ab74d12d96338a248744057d8ed3d2187b7dc7fca4090c8e2903ace2c47e101570c925898bafbac632a43a5782ce7b45cfe512b0e12c9c728d5f7",
+      "ssoID": "1568365245"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nis",
+    "action_type": "retrieve citizen",
+    "duration": 8,
+    "status": "success",
+    "message": "Record match",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7caad4b4ed7c164c5dfb57",
+      "publickey": "0472305057ff60e2936d2a9b481d1efc40366ce975d63dbc50733ec5dc50321238ff6233424d32008b3b529fbac7a559e806684148167402a48c81d7939780aa1f",
+      "ssoID": "1568365322"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nis",
+    "action_type": "retrieve citizen",
+    "duration": 9,
+    "status": "success",
+    "message": "Record match",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7caae8b4ed7c164c5dfb7b",
+      "publickey": "049bcbee55466e1a4d95ab2953c4dad32f36cbd28f32152dcb9b17e11ff3b36baf00f0a79c86c1bf4752b5f3a74e189127448a4fb6b8de1e8b1b14417800d68920",
+      "ssoID": "1568365056"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nis",
+    "action_type": "retrieve citizen",
+    "duration": 12,
+    "status": "success",
+    "message": "Record match",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7ca9d7b4ed7c164c5dfadf",
+      "publickey": "043d006371fa1368342ba3a1a955b6a14483a0cccd1faecf0b2445f4d8592047fcd6a015380b191522cda76c77e6edc8548041840187420445e53d434f6c0a3099",
+      "ssoID": "1568365546"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nis",
+    "action_type": "retrieve citizen",
+    "duration": 9,
+    "status": "success",
+    "message": "Record match",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7caa49b4ed7c164c5dfb0f",
+      "publickey": "04a8cfccadf8006b35fb48a362c79d6cc642a173717f892edd80d46b4d5a930fe6ce6c104fc660ea6421213a16daf45463154d761d2b45ae4c38a9e28839b8e40e",
+      "ssoID": "1568365639"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nis",
+    "action_type": "retrieve citizen",
+    "duration": 7,
+    "status": "success",
+    "message": "Record match",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7ca983b4ed7c164c5dfaa3",
+      "publickey": "0461130c5789acd36139528a026aa212e8b8e364c4ecdc0f6b37c2b9c05affd87805b566260db0aeaacf6fa7b8f0a9c169181ec06a5db608566850b74c40323a13",
+      "ssoID": "1568365756"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nis",
+    "action_type": "modify citizen",
+    "duration": 908,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7caa71b4ed7c164c5dfb1b",
+      "publickey": "04dfdb1d07c65b095056565d9d08a634ee10f1e194bd8163d89ecc409133cee90d862dac9b55a95198591ab8c3b2a7306276c6064e3f1acd903cf84cbe5efab9e1",
+      "ssoID": "1568365419"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nis",
+    "action_type": "modify citizen",
+    "duration": 252,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7ca983b4ed7c164c5dfaa3",
+      "publickey": "0461130c5789acd36139528a026aa212e8b8e364c4ecdc0f6b37c2b9c05affd87805b566260db0aeaacf6fa7b8f0a9c169181ec06a5db608566850b74c40323a13",
+      "ssoID": "1568365756"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nis",
+    "action_type": "modify citizen",
+    "duration": 196,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7cab7bba3ad85188a28764",
+      "publickey": "04a14aee3cd00ab74d12d96338a248744057d8ed3d2187b7dc7fca4090c8e2903ace2c47e101570c925898bafbac632a43a5782ce7b45cfe512b0e12c9c728d5f7",
+      "ssoID": "1568365245"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nis",
+    "action_type": "modify citizen",
+    "duration": 1169,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7caad4b4ed7c164c5dfb57",
+      "publickey": "0472305057ff60e2936d2a9b481d1efc40366ce975d63dbc50733ec5dc50321238ff6233424d32008b3b529fbac7a559e806684148167402a48c81d7939780aa1f",
+      "ssoID": "1568365322"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nis",
+    "action_type": "modify citizen",
+    "duration": 1254,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7caae8b4ed7c164c5dfb7b",
+      "publickey": "049bcbee55466e1a4d95ab2953c4dad32f36cbd28f32152dcb9b17e11ff3b36baf00f0a79c86c1bf4752b5f3a74e189127448a4fb6b8de1e8b1b14417800d68920",
+      "ssoID": "1568365056"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "nis",
+    "action_type": "modify citizen",
+    "duration": 4372,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7caa49b4ed7c164c5dfb0f",
+      "publickey": "04a8cfccadf8006b35fb48a362c79d6cc642a173717f892edd80d46b4d5a930fe6ce6c104fc660ea6421213a16daf45463154d761d2b45ae4c38a9e28839b8e40e",
+      "ssoID": "1568365639"
+    }
+  },
+  {
+    "ip": "::ffff:127.0.0.1",
+    "code": "cbn",
+    "action_type": "login",
+    "duration": 0,
+    "status": "success",
+    "message": "login successfully",
+    "browser": "Other",
+    "os": "Other",
+    "action_data": {
+      "id": 1566372467084,
+      "privatekey": "ab2f7e4cc6dd1bf8f30607b438a8a2e435f9c093372d25b28cf17c3153b64ece",
+      "publickey": "049cc22cb857d06740c877b3826b3a53c79b1f4401bd80a5ddbe49c3365bd6f690e104691a9ad3d07a25e07155ccc0c9561d1552ab76e07d4de7954a15d94e2be1",
+      "name": "Dele Giwa",
+      "phone": "1234567890",
+      "email": "dele.giwa@cbn.com",
+      "role": "admin"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "cbn",
+    "action_type": "retrieve citizen",
+    "duration": 15,
+    "status": "success",
+    "message": "Record match",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7ca990b4ed7c164c5dfabb",
+      "publickey": "04e9528c416e9e38e917ba810a336973cd0edcbefc2c7d83abdb478b365270bba8f7a076735bb4f0bc2d708f410a9c03024bb391c2d56d8511f28b8bd368335958",
+      "ssoID": "1568365790"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "cbn",
+    "action_type": "retrieve citizen",
+    "duration": 10,
+    "status": "success",
+    "message": "Record match",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7ca983b4ed7c164c5dfaa3",
+      "publickey": "0461130c5789acd36139528a026aa212e8b8e364c4ecdc0f6b37c2b9c05affd87805b566260db0aeaacf6fa7b8f0a9c169181ec06a5db608566850b74c40323a13",
+      "ssoID": "1568365756"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "cbn",
+    "action_type": "retrieve citizen",
+    "duration": 11,
+    "status": "success",
+    "message": "Record match",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7ca979b4ed7c164c5dfa97",
+      "publickey": "048cf960b13b6052ce5ce6f9ae200454939aa2a2f17e3ca984dee178583de806e71d9c8279a348bd53b5a975783e67dd627176cd1bfff8bd78edc5d07086d08c84",
+      "ssoID": "1568365695"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "cbn",
+    "action_type": "retrieve citizen",
+    "duration": 7,
+    "status": "success",
+    "message": "Record match",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7ca9d7b4ed7c164c5dfadf",
+      "publickey": "043d006371fa1368342ba3a1a955b6a14483a0cccd1faecf0b2445f4d8592047fcd6a015380b191522cda76c77e6edc8548041840187420445e53d434f6c0a3099",
+      "ssoID": "1568365546"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "cbn",
+    "action_type": "retrieve citizen",
+    "duration": 7,
+    "status": "success",
+    "message": "Record match",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7caaafb4ed7c164c5dfb4b",
+      "publickey": "04bc5b1f3fd0a0baf223cda98954b7024eed651b9876c884bdc6f1fda7b89b41a8aeb4dff69bb7cfb33482253f795bea37572be39d7ad90fc1d9fc0fb028f30ed6",
+      "ssoID": "1568365561"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "cbn",
+    "action_type": "retrieve citizen",
+    "duration": 9,
+    "status": "success",
+    "message": "Record match",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7caadab4ed7c164c5dfb63",
+      "publickey": "04bdb1e91762687b3d83778e39782276d15dc9952ab79cccba427aa85c2685ac2997cea5ba3ccecdaaf40b731e9642d505fb78ad725f78d46678d4ad4af25dd033",
+      "ssoID": "1568365304"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "cbn",
+    "action_type": "retrieve citizen",
+    "duration": 9,
+    "status": "success",
+    "message": "Record match",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7cac54ba3ad85188a28788",
+      "publickey": "041cc8be92f41345051a72aff9abe380767282ed73fbdc50e9348434fa225d290531218f1e07dfa1081830f271623413586f5a21479ec71e6fd2b202a288cde698",
+      "ssoID": "1568365168"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "cbn",
+    "action_type": "modify citizen",
+    "duration": 1722,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7ca990b4ed7c164c5dfabb",
+      "publickey": "04e9528c416e9e38e917ba810a336973cd0edcbefc2c7d83abdb478b365270bba8f7a076735bb4f0bc2d708f410a9c03024bb391c2d56d8511f28b8bd368335958",
+      "ssoID": "1568365790"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "cbn",
+    "action_type": "modify citizen",
+    "duration": 1783,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7cac54ba3ad85188a28788",
+      "publickey": "041cc8be92f41345051a72aff9abe380767282ed73fbdc50e9348434fa225d290531218f1e07dfa1081830f271623413586f5a21479ec71e6fd2b202a288cde698",
+      "ssoID": "1568365168"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "cbn",
+    "action_type": "modify citizen",
+    "duration": 3005,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7caadab4ed7c164c5dfb63",
+      "publickey": "04bdb1e91762687b3d83778e39782276d15dc9952ab79cccba427aa85c2685ac2997cea5ba3ccecdaaf40b731e9642d505fb78ad725f78d46678d4ad4af25dd033",
+      "ssoID": "1568365304"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "cbn",
+    "action_type": "modify citizen",
+    "duration": 4201,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7caaafb4ed7c164c5dfb4b",
+      "publickey": "04bc5b1f3fd0a0baf223cda98954b7024eed651b9876c884bdc6f1fda7b89b41a8aeb4dff69bb7cfb33482253f795bea37572be39d7ad90fc1d9fc0fb028f30ed6",
+      "ssoID": "1568365561"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "cbn",
+    "action_type": "modify citizen",
+    "duration": 1646,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7ca9d7b4ed7c164c5dfadf",
+      "publickey": "043d006371fa1368342ba3a1a955b6a14483a0cccd1faecf0b2445f4d8592047fcd6a015380b191522cda76c77e6edc8548041840187420445e53d434f6c0a3099",
+      "ssoID": "1568365546"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "cbn",
+    "action_type": "modify citizen",
+    "duration": 1790,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7ca983b4ed7c164c5dfaa3",
+      "publickey": "0461130c5789acd36139528a026aa212e8b8e364c4ecdc0f6b37c2b9c05affd87805b566260db0aeaacf6fa7b8f0a9c169181ec06a5db608566850b74c40323a13",
+      "ssoID": "1568365756"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "cbn",
+    "action_type": "modify citizen",
+    "duration": 532,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7ca979b4ed7c164c5dfa97",
+      "publickey": "048cf960b13b6052ce5ce6f9ae200454939aa2a2f17e3ca984dee178583de806e71d9c8279a348bd53b5a975783e67dd627176cd1bfff8bd78edc5d07086d08c84",
+      "ssoID": "1568365695"
+    }
+  },
+  {
+    "ip": "::ffff:127.0.0.1",
+    "code": "frsc",
+    "action_type": "login",
+    "duration": 1,
+    "status": "success",
+    "message": "login successfully",
+    "browser": "Other",
+    "os": "Other",
+    "action_data": {
+      "id": 1566372467084,
+      "privatekey": "ab2f7e4cc6dd1bf8f30607b438a8a2e435f9c093372d25b28cf17c3153b64ece",
+      "publickey": "049cc22cb857d06740c877b3826b3a53c79b1f4401bd80a5ddbe49c3365bd6f690e104691a9ad3d07a25e07155ccc0c9561d1552ab76e07d4de7954a15d94e2be1",
+      "name": "Sulayman Musa",
+      "phone": "1234567890",
+      "email": "sulayman.admin@frsc.com",
+      "role": "admin"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "frsc",
+    "action_type": "retrieve citizen",
+    "duration": 14,
+    "status": "success",
+    "message": "Record match",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7caa7bb4ed7c164c5dfb27",
+      "publickey": "04628d165ec2b1d41fcc0c06dedaf0b943dcb93127a7e06c962bc3bb004882e2f3bb1962715f6bd15b431145af00cc72e68fe64b94707b79d9b8684815326561f0",
+      "ssoID": "1568365013"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "frsc",
+    "action_type": "retrieve citizen",
+    "duration": 12,
+    "status": "success",
+    "message": "Record match",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7caae8b4ed7c164c5dfb7b",
+      "publickey": "049bcbee55466e1a4d95ab2953c4dad32f36cbd28f32152dcb9b17e11ff3b36baf00f0a79c86c1bf4752b5f3a74e189127448a4fb6b8de1e8b1b14417800d68920",
+      "ssoID": "1568365056"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "frsc",
+    "action_type": "retrieve citizen",
+    "duration": 13,
+    "status": "success",
+    "message": "Record match",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7cac4cba3ad85188a2877c",
+      "publickey": "044879a3d74e0338c86a9795330c24a8e5850724f01f47be6dbbedd432f8a1fd1ec96107b6656a2aed0b90496b06b60cbfd8b20f72ba0074c420ac8e3dbf90afc6",
+      "ssoID": "1568365138"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "frsc",
+    "action_type": "retrieve citizen",
+    "duration": 10,
+    "status": "success",
+    "message": "Record match",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7cac54ba3ad85188a28788",
+      "publickey": "041cc8be92f41345051a72aff9abe380767282ed73fbdc50e9348434fa225d290531218f1e07dfa1081830f271623413586f5a21479ec71e6fd2b202a288cde698",
+      "ssoID": "1568365168"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "frsc",
+    "action_type": "retrieve citizen",
+    "duration": 11,
+    "status": "success",
+    "message": "Record match",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7caad4b4ed7c164c5dfb57",
+      "publickey": "0472305057ff60e2936d2a9b481d1efc40366ce975d63dbc50733ec5dc50321238ff6233424d32008b3b529fbac7a559e806684148167402a48c81d7939780aa1f",
+      "ssoID": "1568365322"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "frsc",
+    "action_type": "retrieve citizen",
+    "duration": 9,
+    "status": "success",
+    "message": "Record match",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7caaafb4ed7c164c5dfb4b",
+      "publickey": "04bc5b1f3fd0a0baf223cda98954b7024eed651b9876c884bdc6f1fda7b89b41a8aeb4dff69bb7cfb33482253f795bea37572be39d7ad90fc1d9fc0fb028f30ed6",
+      "ssoID": "1568365561"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "frsc",
+    "action_type": "retrieve citizen",
+    "duration": 12,
+    "status": "success",
+    "message": "Record match",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7caa3bb4ed7c164c5dfaf7",
+      "publickey": "04a3d0927556906405ec22934cd815e2ddab093ec62cb26fe554a05a5c65ca14033d68365d697956b217262846a5114fdcb41c91b7c833da79bcfc5136c4b5f227",
+      "ssoID": "1568365623"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "frsc",
+    "action_type": "retrieve citizen",
+    "duration": 9,
+    "status": "success",
+    "message": "Record match",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7caa49b4ed7c164c5dfb0f",
+      "publickey": "04a8cfccadf8006b35fb48a362c79d6cc642a173717f892edd80d46b4d5a930fe6ce6c104fc660ea6421213a16daf45463154d761d2b45ae4c38a9e28839b8e40e",
+      "ssoID": "1568365639"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "frsc",
+    "action_type": "modify citizen",
+    "duration": 2353,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7caa7bb4ed7c164c5dfb27",
+      "publickey": "04628d165ec2b1d41fcc0c06dedaf0b943dcb93127a7e06c962bc3bb004882e2f3bb1962715f6bd15b431145af00cc72e68fe64b94707b79d9b8684815326561f0",
+      "ssoID": "1568365013"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "frsc",
+    "action_type": "modify citizen",
+    "duration": 9857,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7caae8b4ed7c164c5dfb7b",
+      "publickey": "049bcbee55466e1a4d95ab2953c4dad32f36cbd28f32152dcb9b17e11ff3b36baf00f0a79c86c1bf4752b5f3a74e189127448a4fb6b8de1e8b1b14417800d68920",
+      "ssoID": "1568365056"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "frsc",
+    "action_type": "modify citizen",
+    "duration": 1706,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7cac4cba3ad85188a2877c",
+      "publickey": "044879a3d74e0338c86a9795330c24a8e5850724f01f47be6dbbedd432f8a1fd1ec96107b6656a2aed0b90496b06b60cbfd8b20f72ba0074c420ac8e3dbf90afc6",
+      "ssoID": "1568365138"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "frsc",
+    "action_type": "modify citizen",
+    "duration": 1107,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7cac54ba3ad85188a28788",
+      "publickey": "041cc8be92f41345051a72aff9abe380767282ed73fbdc50e9348434fa225d290531218f1e07dfa1081830f271623413586f5a21479ec71e6fd2b202a288cde698",
+      "ssoID": "1568365168"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "frsc",
+    "action_type": "modify citizen",
+    "duration": 214,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7caad4b4ed7c164c5dfb57",
+      "publickey": "0472305057ff60e2936d2a9b481d1efc40366ce975d63dbc50733ec5dc50321238ff6233424d32008b3b529fbac7a559e806684148167402a48c81d7939780aa1f",
+      "ssoID": "1568365322"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "frsc",
+    "action_type": "modify citizen",
+    "duration": 2415,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7caaafb4ed7c164c5dfb4b",
+      "publickey": "04bc5b1f3fd0a0baf223cda98954b7024eed651b9876c884bdc6f1fda7b89b41a8aeb4dff69bb7cfb33482253f795bea37572be39d7ad90fc1d9fc0fb028f30ed6",
+      "ssoID": "1568365561"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "frsc",
+    "action_type": "modify citizen",
+    "duration": 708,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7caa49b4ed7c164c5dfb0f",
+      "publickey": "04a8cfccadf8006b35fb48a362c79d6cc642a173717f892edd80d46b4d5a930fe6ce6c104fc660ea6421213a16daf45463154d761d2b45ae4c38a9e28839b8e40e",
+      "ssoID": "1568365639"
+    }
+  },
+  {
+    "ip": "::1",
+    "code": "frsc",
+    "action_type": "modify citizen",
+    "duration": 594,
+    "status": "success",
+    "message": "Record mined successfully",
+    "browser": "Chrome",
+    "os": "Windows",
+    "action_data": {
+      "userid": "5d7caa3bb4ed7c164c5dfaf7",
+      "publickey": "04a3d0927556906405ec22934cd815e2ddab093ec62cb26fe554a05a5c65ca14033d68365d697956b217262846a5114fdcb41c91b7c833da79bcfc5136c4b5f227",
+      "ssoID": "1568365623"
+    }
+  },
+  {
+    "ip": "::ffff:127.0.0.1",
+    "code": "frsc",
+    "action_type": "login",
+    "duration": 3,
+    "status": "success",
+    "message": "login successfully",
+    "browser": "Other",
+    "os": "Other",
+    "action_data": {
+      "id": 1566372467084,
+      "privatekey": "ab2f7e4cc6dd1bf8f30607b438a8a2e435f9c093372d25b28cf17c3153b64ece",
+      "publickey": "049cc22cb857d06740c877b3826b3a53c79b1f4401bd80a5ddbe49c3365bd6f690e104691a9ad3d07a25e07155ccc0c9561d1552ab76e07d4de7954a15d94e2be1",
+      "name": "Sulayman Musa",
+      "phone": "1234567890",
+      "email": "sulayman.admin@frsc.com",
+      "role": "admin"
+    }
+  }
+]
